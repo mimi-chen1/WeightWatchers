@@ -1,0 +1,42 @@
+D:\דוטנט\FinalProject\WeightWatchers\WeightWatchers.data\bin\Debug\net6.0\WeightWatchers.data.deps.json
+D:\דוטנט\FinalProject\WeightWatchers\WeightWatchers.data\bin\Debug\net6.0\WeightWatchers.data.runtimeconfig.json
+D:\דוטנט\FinalProject\WeightWatchers\WeightWatchers.data\bin\Debug\net6.0\WeightWatchers.data.dll
+D:\דוטנט\FinalProject\WeightWatchers\WeightWatchers.data\bin\Debug\net6.0\WeightWatchers.data.pdb
+D:\דוטנט\FinalProject\WeightWatchers\WeightWatchers.data\obj\Debug\net6.0\WeightWatchers.data.csproj.AssemblyReference.cache
+D:\דוטנט\FinalProject\WeightWatchers\WeightWatchers.data\obj\Debug\net6.0\WeightWatchers.data.GeneratedMSBuildEditorConfig.editorconfig
+D:\דוטנט\FinalProject\WeightWatchers\WeightWatchers.data\obj\Debug\net6.0\WeightWatchers.data.AssemblyInfoInputs.cache
+D:\דוטנט\FinalProject\WeightWatchers\WeightWatchers.data\obj\Debug\net6.0\WeightWatchers.data.AssemblyInfo.cs
+D:\דוטנט\FinalProject\WeightWatchers\WeightWatchers.data\obj\Debug\net6.0\WeightWatchers.data.csproj.CoreCompileInputs.cache
+D:\דוטנט\FinalProject\WeightWatchers\WeightWatchers.data\obj\Debug\net6.0\WeightWatchers.data.dll
+D:\דוטנט\FinalProject\WeightWatchers\WeightWatchers.data\obj\Debug\net6.0\refint\WeightWatchers.data.dll
+D:\דוטנט\FinalProject\WeightWatchers\WeightWatchers.data\obj\Debug\net6.0\WeightWatchers.data.pdb
+D:\דוטנט\FinalProject\WeightWatchers\WeightWatchers.data\obj\Debug\net6.0\WeightWatchers.data.genruntimeconfig.cache
+D:\דוטנט\FinalProject\WeightWatchers\WeightWatchers.data\obj\Debug\net6.0\ref\WeightWatchers.data.dll
+Y:\Groups\Group_2\חן  מרים\Dotnet\FinalProject\WeightWatchers\WeightWatchers.data\bin\Debug\net6.0\WeightWatchers.data.deps.json
+Y:\Groups\Group_2\חן  מרים\Dotnet\FinalProject\WeightWatchers\WeightWatchers.data\bin\Debug\net6.0\WeightWatchers.data.runtimeconfig.json
+Y:\Groups\Group_2\חן  מרים\Dotnet\FinalProject\WeightWatchers\WeightWatchers.data\bin\Debug\net6.0\WeightWatchers.data.dll
+Y:\Groups\Group_2\חן  מרים\Dotnet\FinalProject\WeightWatchers\WeightWatchers.data\bin\Debug\net6.0\WeightWatchers.data.pdb
+Y:\Groups\Group_2\חן  מרים\Dotnet\FinalProject\WeightWatchers\WeightWatchers.data\obj\Debug\net6.0\WeightWatchers.data.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\חן  מרים\Dotnet\FinalProject\WeightWatchers\WeightWatchers.data\obj\Debug\net6.0\WeightWatchers.data.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\חן  מרים\Dotnet\FinalProject\WeightWatchers\WeightWatchers.data\obj\Debug\net6.0\WeightWatchers.data.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\חן  מרים\Dotnet\FinalProject\WeightWatchers\WeightWatchers.data\obj\Debug\net6.0\WeightWatchers.data.AssemblyInfo.cs
+Y:\Groups\Group_2\חן  מרים\Dotnet\FinalProject\WeightWatchers\WeightWatchers.data\obj\Debug\net6.0\WeightWatchers.data.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\חן  מרים\Dotnet\FinalProject\WeightWatchers\WeightWatchers.data\obj\Debug\net6.0\WeightWatchers.data.dll
+Y:\Groups\Group_2\חן  מרים\Dotnet\FinalProject\WeightWatchers\WeightWatchers.data\obj\Debug\net6.0\refint\WeightWatchers.data.dll
+Y:\Groups\Group_2\חן  מרים\Dotnet\FinalProject\WeightWatchers\WeightWatchers.data\obj\Debug\net6.0\WeightWatchers.data.pdb
+Y:\Groups\Group_2\חן  מרים\Dotnet\FinalProject\WeightWatchers\WeightWatchers.data\obj\Debug\net6.0\WeightWatchers.data.genruntimeconfig.cache
+Y:\Groups\Group_2\חן  מרים\Dotnet\FinalProject\WeightWatchers\WeightWatchers.data\obj\Debug\net6.0\ref\WeightWatchers.data.dll
+C:\תכנות ו\Dotnet\FinalProject\WeightWatchers\WeightWatchers.data\bin\Debug\net6.0\WeightWatchers.data.deps.json
+C:\תכנות ו\Dotnet\FinalProject\WeightWatchers\WeightWatchers.data\bin\Debug\net6.0\WeightWatchers.data.runtimeconfig.json
+C:\תכנות ו\Dotnet\FinalProject\WeightWatchers\WeightWatchers.data\bin\Debug\net6.0\WeightWatchers.data.dll
+C:\תכנות ו\Dotnet\FinalProject\WeightWatchers\WeightWatchers.data\bin\Debug\net6.0\WeightWatchers.data.pdb
+C:\תכנות ו\Dotnet\FinalProject\WeightWatchers\WeightWatchers.data\obj\Debug\net6.0\WeightWatchers.data.csproj.AssemblyReference.cache
+C:\תכנות ו\Dotnet\FinalProject\WeightWatchers\WeightWatchers.data\obj\Debug\net6.0\WeightWatchers.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנות ו\Dotnet\FinalProject\WeightWatchers\WeightWatchers.data\obj\Debug\net6.0\WeightWatchers.data.AssemblyInfoInputs.cache
+C:\תכנות ו\Dotnet\FinalProject\WeightWatchers\WeightWatchers.data\obj\Debug\net6.0\WeightWatchers.data.AssemblyInfo.cs
+C:\תכנות ו\Dotnet\FinalProject\WeightWatchers\WeightWatchers.data\obj\Debug\net6.0\WeightWatchers.data.csproj.CoreCompileInputs.cache
+C:\תכנות ו\Dotnet\FinalProject\WeightWatchers\WeightWatchers.data\obj\Debug\net6.0\WeightWatchers.data.dll
+C:\תכנות ו\Dotnet\FinalProject\WeightWatchers\WeightWatchers.data\obj\Debug\net6.0\refint\WeightWatchers.data.dll
+C:\תכנות ו\Dotnet\FinalProject\WeightWatchers\WeightWatchers.data\obj\Debug\net6.0\WeightWatchers.data.pdb
+C:\תכנות ו\Dotnet\FinalProject\WeightWatchers\WeightWatchers.data\obj\Debug\net6.0\WeightWatchers.data.genruntimeconfig.cache
+C:\תכנות ו\Dotnet\FinalProject\WeightWatchers\WeightWatchers.data\obj\Debug\net6.0\ref\WeightWatchers.data.dll
